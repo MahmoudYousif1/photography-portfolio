@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1",
+    "title": "Summertime Train Ride",
+    "category": "people",
+    "description": "Natural light portrait captured during golden hour",
+    "filename": "resources/data/photos/people/img1.jpg",
+    "date": "12/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/100s",
+      "focalLength": "85mm"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Among The Trees",
+    "category": "people",
+    "description": "A warm outdoor portrait taken with natural light, featuring soft background blur and rich earthy tones that bring focus to the subject.",
+    "filename": "resources/data/photos/people/img2.jpg",
+    "date": "4/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 250,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/160s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "3",
+    "title": "A Sweet Moment",
+    "category": "people",
+    "description": "A cheerful portrait of a child enjoying a lollipop, captured with a candid smile",
+    "filename": "resources/data/photos/people/img3.jpg",
+    "date": "5/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 1600,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/30s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Golden Hour Silence",
+    "category": "people",
+    "description": "A quiet portrait captured in soft evening light, with warm tones and a calm atmosphere",
+    "filename": "resources/data/photos/people/img4.jpg",
+    "date": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Waiting For The Next Ride",
+    "category": "people",
+    "description": " A lone figure waits at the bus stop, eyes fixed on their screen, as time hums quietly around them.",
+    "filename": "resources/data/photos/people/img5.jpg",
+    "date": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/30s",
+      "focalLength": "70mm"
+    }
+  },
+  {
+    "id": "6",
+    "title": "In The Shade Of Silence",
+    "category": "people",
+    "description": " Half-hidden in green, a quiet figure leans into nature’s hush",
+    "filename": "resources/data/photos/people/img6.jpg",
+    "date": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/80s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "7",
+    "title": "Between The Lines & Lights",
+    "category": "people",
+    "description": "A lone figure stands in shadow, caught between sunlight and lines",
+    "filename": "resources/data/photos/people/img7.jpg",
+    "date": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 200,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "70mm"
+    }
+  },
+  {
+    "id": "8",
+    "title": "2 Musicians",
+    "category": "people",
+    "description": "Two street musicians performing together, one playing guitar while the other plays the drumsnearby",
+    "filename": "resources/data/photos/people/img8.jpg",
+    "date": "11/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 640,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "70mm"
+    }
+  },
+  {
+    "id": "9",
+    "title": "Street Singer",
+    "category": "people",
+    "description": "A passionate street performer singing into a microphone during an outdoor performance",
+    "filename": "resources/data/photos/people/img9.jpg",
+    "date": "11/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 640,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "10",
+    "title": "Singing on the Street",
+    "category": "people",
+    "description": "A street musician performs with a guitar and microphone in an outdoor setting.",
+    "filename": "resources/data/photos/people/img10.jpg",
+    "date": "11/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 640,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "11",
+    "title": " 2 Strides",
+    "category": "people",
+    "description": "Two people walking along a cobbled street at dusk.",
+    "filename": "resources/data/photos/people/img11.jpg",
+    "date": "14/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "12",
+    "title": "Brick Passage",
+    "category": "people",
+    "description": "A figure walking through a narrow brick entrance.",
+    "filename": "resources/data/photos/people/img12.jpg",
+    "date": "14/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/8",
+      "shutterSpeed": "1/50s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "13",
+    "title": "City Hangout",
+    "category": "people",
+    "description": "A group of friends gather on a concrete ledge in the city, chatting and relaxing near a graffiti-covered wall. The moody lighting and urban backdrop give the moment a cinematic feel.",
+    "filename": "resources/data/photos/people/img13.jpg",
+    "date": "28/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "14",
+    "title": "Park Stroll",
+    "category": "people",
+    "description": "A candid moment of a person walking their dog in a park, surrounded by playgrounds and passersby.",
+    "filename": "resources/data/photos/people/img14.jpg",
+    "date": "28/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "125mm"
+    }
+  },
+  {
+    "id": "15",
+    "title": "Street Pause",
+    "category": "people",
+    "description": "A candid street moment of a person standing at a crosswalk framed by traffic signs.",
+    "filename": "resources/data/photos/people/img15.jpg",
+    "date": "11/6/2015",
+    "cameraInfo": {
+      "camera": "Canon EOS 5D Mark III",
+      "lens": "EF50mm f/1.4 USM",
+      "iso": 800,
+      "aperture": "f/6",
+      "shutterSpeed": "1/80s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "16",
+    "title": "Red Light Wait",
+    "category": "people",
+    "description": "A lone figure waits at a city crossing under the glow of a red light, framed by blurred headlights and the hum of passing traffic.",
+    "filename": "resources/data/photos/people/img16.jpg",
+    "date": "28/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 500,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/25s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "17",
+    "title": "A Stare into the Riverside",
+    "category": "people",
+    "description": "A quiet moment of a person standing by a stream in the countryside, gazing into the distance as soft hills and greenery blur into the background.",
+    "filename": "resources/data/photos/people/img17.jpg",
+    "date": "15/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 160,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/160s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "18",
+    "title": "Bridge Between Journeys",
+    "category": "people",
+    "description": "Two hikers pause on a wooden bridge surrounded by forest, their backpacks and relaxed stance capturing a calm moment in the middle of the trail.",
+    "filename": "resources/data/photos/people/img18.jpg",
+    "date": "15/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 160,
+      "aperture": "f/8",
+      "shutterSpeed": "1/500s",
+      "focalLength": "59mm"
+    }
+  },
+  {
+    "id": "19",
+    "title": "Reflections in Blue",
+    "category": "people",
+    "description": "A striking reflection of a person standing near water, their blue jacket mirrored in the still surface alongside rocks and grass.",
+    "filename": "resources/data/photos/people/img19.jpg",
+    "date": "16/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/10",
+      "shutterSpeed": "1/250s",
+      "focalLength": "95mm"
+    }
+  },
+  {
+    "id": "20",
+    "title": "Under Rain and Leaves",
+    "category": "people",
+    "description": "A moody portrait of a person standing beneath large leaves, eyes closed as droplets fall.",
+    "filename": "resources/data/photos/people/img20.jpg",
+    "date": "16/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 1250,
+      "aperture": "f/16",
+      "shutterSpeed": "1/60s",
+      "focalLength": "64mm"
+    }
+  },
+  {
+    "id": "21",
+    "title": "Still Waters",
+    "category": "people",
+    "description": "A serene scene of a person standing waist-deep in calm water, their reflection stretching across the surface.",
+    "filename": "resources/data/photos/people/img21.jpg",
+    "date": "16/1/2023",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/11",
+      "shutterSpeed": "1/500s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "22",
+    "title": "Meeting by the Field",
+    "category": "people",
+    "description": "A peaceful moment of a person standing behind a hedge, watching a white horse graze in a sunlit field.",
+    "filename": "resources/data/photos/people/img22.jpg",
+    "date": "25/5/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 200,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/500s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "23",
+    "title": "Wide-Eyed Wonder",
+    "category": "people",
+    "description": "A close-up of a young child with a curious, expressive gaze.",
+    "filename": "resources/data/photos/people/img23.jpg",
+    "date": "13/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 800,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/60s",
+      "focalLength": "51mm"
+    }
+  },
+  {
+    "id": "24",
+    "title": "Sunlit Stance",
+    "category": "people",
+    "description": "A person standing on a tree-lined path with arms crossed, sunlight filtering through the leaves.",
+    "filename": "resources/data/photos/people/img24.jpg",
+    "date": "17/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 100,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/160s",
+      "focalLength": "52mm"
+    }
+  },
+  {
+    "id": "25",
+    "title": "Dressed for the Occasion",
+    "category": "people",
+    "description": "A sharply dressed person in a light gray suit with a pink boutonniere, standing in a warmly lit indoor setting.",
+    "filename": "resources/data/photos/people/img25.jpg",
+    "date": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 400,
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/125s",
+      "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "26",
+    "title": "Embrace in Green",
+    "category": "people",
+    "description": "A tender embrace between father and child in matching dark green suits.",
+    "filename": "resources/data/photos/people/img26.jpg",
+    "date": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 800,
+      "aperture": "f/4",
+      "shutterSpeed": "1/125s",
+      "focalLength": "40mm"
+    }
+  },
+  {
+    "id": "27",
+    "title": "Breezy Call on Brick Street",
+    "category": "people",
+    "description": "A person in a cream crocheted cardigan stands on a city street, holding a phone as the breeze catches their hair.",
+    "filename": "resources/data/photos/people/img27.jpg",
+    "date": "24/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 200,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/320s",
+      "focalLength": "50mm"
+    }
+  },
+  {
+    "id": "28",
+    "title": "Sunlit Smile",
+    "category": "people",
+    "description": "A person smiles softly in warm natural light between the trees and a stone wall.",
+    "filename": "resources/data/photos/people/img28.jpg",
+    "date": "24/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 200,
+      "aperture": "f/5",
+      "shutterSpeed": "1/250s",
+      "focalLength": "45mm"
+    }
+  },
+  {
+    "id": "29",
+    "title": "Celebration in Motion",
+    "category": "people",
+    "description": "A joyful group gathered around the dance floor, hands raised in shared celebration.",
+    "filename": "resources/data/photos/people/img29.jpg",
+    "date": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 400,
+      "aperture": "f/4",
+      "shutterSpeed": "1/100s",
+      "focalLength": "20mm"
+    }
+  },
+  {
+    "id": "30",
+    "title": "Maroon and Light",
+    "category": "people",
+    "description": "A portrait of a person in a maroon suit and red patterned tie, his face lit by flash against the dim, elegant backdrop of a celebration.",
+    "filename": "resources/data/photos/people/img30.jpg",
+    "date": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 200,
+      "aperture": "f/5",
+      "shutterSpeed": "1/200s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "31",
+    "title": "Groom in the Spotlight",
+    "category": "people",
+    "description": "The groom dances at the center of the floor, surrounded by friends and family celebrating around him.",
+    "filename": "resources/data/photos/people/img31.jpg",
+    "date": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 200,
+      "aperture": "f/5",
+      "shutterSpeed": "1/200s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "32",
+    "title": "Raised in Unity",
+    "category": "people",
+    "description": "Men in suits raise their fists together, the central figure standing out against the dark background.",
+    "filename": "resources/data/photos/people/img32.jpg",
+    "date": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 200,
+      "aperture": "f/5",
+      "shutterSpeed": "1/200s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "33",
+    "title": "Stone Wall Stillness",
+    "category": "people",
+    "description": "A person stands against a stone wall, hands together in a quiet, thoughtful pose.",
+    "filename": "resources/data/photos/people/img33.jpg",
+    "date": "29/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/160s",
+      "focalLength": "56mm"
+    }
+  },
+  {
+    "id": "34",
+    "title": "Sidewalk Conversation",
+    "category": "people",
+    "description": "Two older people walk past a construction sign on a cool day.",
+    "filename": "resources/data/photos/people/img34.jpg",
+    "date": "29/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 500,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/320s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "35",
+    "title": "Between Buildings",
+    "category": "people",
+    "description": "A person stands outdoors in front of modern and older buildings, wearing a light jacket with dark accents.",
+    "filename": "resources/data/photos/people/img35.jpg",
+    "date": "29/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/640s",
+      "focalLength": "76mm"
+    }
+  },
+  {
+    "id": "36",
+    "title": "Shared Joys",
+    "category": "people",
+    "description": "2 friends sharing a funny and joyful moment.",
+    "filename": "resources/data/photos/people/img36.jpg",
+    "date": "29/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/5",
+      "shutterSpeed": "1/500s",
+      "focalLength": "41mm"
+    }
+  },
+  {
+    "id": "37",
+    "title": "Upward in Thought",
+    "category": "people",
+    "description": "A moody portrait of a person in a dark hoodie, gazing upward against a textured wall.",
+    "filename": "resources/data/photos/people/img37.jpg",
+    "date": "29/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/200s",
+      "focalLength": "59mm"
+    }
+  },
+  {
+    "id": "38",
+    "title": "Bright Smiles",
+    "category": "people",
+    "description": "A smiling person in a sweater stands outside, wind blowing their hair.",
+    "filename": "resources/data/photos/people/img38.jpg",
+    "date": "1/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/320s",
+      "focalLength": "56mm"
+    }
+  },
+  {
+    "id": "39",
+    "title": "A Breeze of Laughter",
+    "category": "people",
+    "description": "A mother holds her baby, both sharing a joyful look in a warmly lit moment.",
+    "filename": "resources/data/photos/people/img39.jpg",
+    "date": "4/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/160s",
+      "focalLength": "50mm"
+    }
+  },
+  {
+    "id": "40",
+    "title": "Strings in the Streetlight",
+    "category": "people",
+    "description": "A musician in a denim jacket sings and plays guitar during an outdoor performance.",
+    "filename": "resources/data/photos/people/img40.jpg",
+    "date": "8/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 640,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "41",
+    "title": "A Musician's Moment",
+    "category": "people",
+    "description": "A musician plays the guitar as music fills the air.",
+    "filename": "resources/data/photos/people/img41.jpg",
+    "date": "8/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 640,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "42",
+    "title": "A serious Portrait",
+    "category": "people",
+    "description": "A person in a dark jacket stands before a blurred city backdrop.",
+    "filename": "resources/data/photos/people/img42.jpg",
+    "date": "8/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "43",
+    "title": "Focused Strings",
+    "category": "people",
+    "description": "A musician in a white t-shirt plays guitar and sings into a microphone.",
+    "filename": "resources/data/photos/people/img43.jpg",
+    "date": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/100s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "44",
+    "title": "Melody by the Window",
+    "category": "people",
+    "description": "A woman sings as a guitarist plays beside her during an outdoor performance.",
+    "filename": "resources/data/photos/people/img44.jpg",
+    "date": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/100s",
+      "focalLength": "132mm"
+    }
+  },
+  {
+    "id": "45",
+    "title": "Urban Portrait",
+    "category": "people",
+    "description": "A young person in a white t-shirt and headphones stands against a dark background.",
+    "filename": "resources/data/photos/people/img45.jpg",
+    "date": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 500,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/25s",
+      "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "46",
+    "title": "Backstreet Vibes",
+    "category": "people",
+    "description": "A person in a white t-shirt with headphones stands lit against a dark backdrop.",
+    "filename": "resources/data/photos/people/img46.jpg",
+    "date": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 500,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/25s",
+      "focalLength": "30mm"
+    }
+  },
+  {
+    "id": "47",
+    "title": "Before The Performance",
+    "category": "people",
+    "description": "A woman with glasses stands at a microphone during an outdoor performance.",
+    "filename": "resources/data/photos/people/img47.jpg",
+    "date": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "48",
+    "title": "Light Between Us",
+    "category": "people",
+    "description": "Two people sit on the ground in near darkness, lit softly by a small light between them.",
+    "filename": "resources/data/photos/people/img48.jpg",
+    "date": "15/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 32000,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/15s",
+      "focalLength": "18mm"
+    }
+  },
+  {
+    "id": "49",
+    "title": "Reflections in Black and White",
+    "category": "people",
+    "description": "The reflection of a person appears upside down in still water among rocks and plants.",
+    "filename": "resources/data/photos/people/img49.jpg",
+    "date": "24/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/10",
+      "shutterSpeed": "1/250s",
+      "focalLength": "95mm"
+    }
+  },
+  {
+    "id": "50",
+    "title": "Face in the Light",
+    "category": "people",
+    "description": "A person in a dark jacket stands out against a black background, lit dramatically from the front.",
+    "filename": "resources/data/photos/people/img50.jpg",
+    "date": "24/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/5",
+      "shutterSpeed": "1/60s",
+      "focalLength": "35mm"
+    }
+  }
+]
