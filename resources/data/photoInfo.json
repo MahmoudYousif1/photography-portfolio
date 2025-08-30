@@ -145,7 +145,7 @@
   },
   {
     "id": "10",
-    "title": "Singing on the Street",
+    "title": "A Street Performance",
     "category": "people",
     "description": "A street musician performs with a guitar and microphone in an outdoor setting.",
     "filename": "resources/data/photos/people/img10.jpg",
@@ -209,7 +209,7 @@
   },
   {
     "id": "14",
-    "title": "Park Stroll",
+    "title": "A Park Stroll",
     "category": "people",
     "description": "A candid moment of a person walking their dog in a park, surrounded by playgrounds and passersby.",
     "filename": "resources/data/photos/people/img14.jpg",
@@ -797,6 +797,614 @@
       "aperture": "f/5",
       "shutterSpeed": "1/60s",
       "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "51",
+    "title": "A Stroll Through Trinity College",
+    "category": "landscapes",
+    "description": "Historic stone buildings stand beside modern glass structures, with people walking below.",
+    "filename": "resources/data/photos/landscapes/img51.jpg",
+    "date": "1/1/2024",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 125,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/320s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "52",
+    "title": "Blush of Hydrangeas",
+    "category": "landscapes",
+    "description": "Vibrant pink hydrangeas bloom against a backdrop of green foliage.",
+    "filename": "resources/data/photos/landscapes/img52.jpg",
+    "date": "1/1/2024",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/320s",
+      "focalLength": "89mm"
+    }
+  },
+  {
+    "id": "53",
+    "title": "Field Selfie",
+    "category": "landscapes",
+    "description": "A person stands on a grassy field under a clear blue sky, holding a phone in front of them.",
+    "filename": "resources/data/photos/landscapes/img53.jpg",
+    "date": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/640s",
+      "focalLength": "95mm"
+    }
+  },
+  {
+    "id": "54",
+    "title": "Berries on the Fence",
+    "category": "landscapes",
+    "description": "Bright red rowan berries hang beside a black metal fence, lit by soft sunlight.",
+    "filename": "resources/data/photos/landscapes/img54.jpg",
+    "date": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/40s",
+      "focalLength": "66mm"
+    }
+  },
+  {
+    "id": "55",
+    "title": "Purple Bloom",
+    "category": "landscapes",
+    "description": "A single purple flower stands tall against a dark leafy background and pale stone curve.",
+    "filename": "resources/data/photos/landscapes/img55.jpg",
+    "date": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "56",
+    "title": "Graffiti and Decay",
+    "category": "landscapes",
+    "description": "An abandoned concrete building covered in vines and graffiti sits among autumn trees.",
+    "filename": "resources/data/photos/landscapes/img56.jpg",
+    "date": "15/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 200,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/125s",
+      "focalLength": "89mm"
+    }
+  },
+  {
+    "id": "57",
+    "title": "Forest Gaze",
+    "category": "landscapes",
+    "description": "A person stands on a forest path, looking up at the tall trees around them.",
+    "filename": "resources/data/photos/landscapes/img57.jpg",
+    "date": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/80s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "58",
+    "title": "By the Streamside",
+    "category": "landscapes",
+    "description": "A person stands near a forest stream, surrounded by lush greenery and filtered sunlight.",
+    "filename": "resources/data/photos/landscapes/img58.jpg",
+    "date": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 250,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/100s",
+      "focalLength": "47mm"
+    }
+  },
+  {
+    "id": "59",
+    "title": "The stream beneath",
+    "category": "landscapes",
+    "description": "A close-up view of clear water rushing over mossy rocks, taken from a bridge above.",
+    "filename": "resources/data/photos/landscapes/img59.jpg",
+    "date": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 250,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/100s",
+      "focalLength": "50mm"
+    }
+  },
+  {
+    "id": "60",
+    "title": "Sky above The Cobblestones",
+    "category": "landscapes",
+    "description": "Cars move along a cobblestone street lined with buildings, under a cloudy sky.",
+    "filename": "resources/data/photos/landscapes/img60.jpg",
+    "date": "14/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/8",
+      "shutterSpeed": "1/50s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "61",
+    "title": "Twin Presence",
+    "category": "landscapes",
+    "description": "Two people in white shirts stand among dense green ferns in a forest",
+    "filename": "resources/data/photos/landscapes/img61.jpg",
+    "date": "15/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 160,
+      "aperture": "f/11",
+      "shutterSpeed": "1/125s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "62",
+    "title": "Ripples and Rock",
+    "category": "landscapes",
+    "description": "Clear water rushes over pebbles and a large stone, surrounded by green vegetation.",
+    "filename": "resources/data/photos/landscapes/img62.jpg",
+    "date": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 160,
+      "aperture": "f/11",
+      "shutterSpeed": "1/250s",
+      "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "63",
+    "title": "Riverbend Silence",
+    "category": "landscapes",
+    "description": "A shallow stream winds through smooth stones and forest trees under a soft, cloudy sky.",
+    "filename": "resources/data/photos/landscapes/img63.jpg",
+    "date": "14/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 200,
+      "aperture": "f/22",
+      "shutterSpeed": "1/60s",
+      "focalLength": "18mm"
+    }
+  },
+  {
+    "id": "64",
+    "title": "Forest Lightfall",
+    "category": "landscapes",
+    "description": "Sunlight filters through tall trees onto a grassy forest floor.",
+    "filename": "resources/data/photos/landscapes/img64.jpg",
+    "date": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/11",
+      "shutterSpeed": "1/125s",
+      "focalLength": "18mm"
+    }
+  },
+  {
+    "id": "65",
+    "title": "By the Stream",
+    "category": "landscapes",
+    "description": "A cutting board hangs from a branch while a person stands on a rocky riverbank in a forest.",
+    "filename": "resources/data/photos/landscapes/img65.jpg",
+    "date": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 125,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/1600s",
+      "focalLength": "18mm"
+    }
+  },
+  {
+    "id": "66",
+    "title": "Amber Current",
+    "category": "landscapes",
+    "description": "A mossy rock sits in a shallow stream as warm light reflects off the rippling water.",
+    "filename": "resources/data/photos/landscapes/img66.jpg",
+    "date": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/9",
+      "shutterSpeed": "1/250s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "67",
+    "title": "Camp Under the Canopy",
+    "category": "landscapes",
+    "description": "Two tents sit in a grassy clearing surrounded by trees, with a person relaxing near a stone fire pit.",
+    "filename": "resources/data/photos/landscapes/img67.jpg",
+    "date": "14/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/9",
+      "shutterSpeed": "1/250s",
+      "focalLength": "122mm"
+    }
+  },
+  {
+    "id": "68",
+    "title": "Forest Viewpoint",
+    "category": "landscapes",
+    "description": "A person sits outdoors in a blue shirt, gazing at a forested stream surrounded by tall evergreens.",
+    "filename": "resources/data/photos/landscapes/img68.jpg",
+    "date": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "54mm"
+    }
+  },
+  {
+    "id": "69",
+    "title": "Layered Green",
+    "category": "landscapes",
+    "description": "Tall pine trees rise behind broad-leaved shrubs as sunlight filters through the dense forest canopy.",
+    "filename": "resources/data/photos/landscapes/img69.jpg",
+    "date": "15/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/13",
+      "shutterSpeed": "1/250s",
+      "focalLength": "81mm"
+    }
+  },
+  {
+    "id": "70",
+    "title": "Riverbank Rest",
+    "category": "landscapes",
+    "description": "A goat lies on a pebbled shore beside a calm river, with grassy fields and trees beyond a wire fence.",
+    "filename": "resources/data/photos/landscapes/img70.jpg",
+    "date": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/16",
+      "shutterSpeed": "1/250s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "71",
+    "title": "Path Through the Trees",
+    "category": "landscapes",
+    "description": "Two people walk along a rocky trail surrounded by dense forest greenery.",
+    "filename": "resources/data/photos/landscapes/img71.jpg",
+    "date": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/16",
+      "shutterSpeed": "1/250s",
+      "focalLength": "86mm"
+    }
+  },
+  {
+    "id": "72",
+    "title": "The Valley",
+    "category": "landscapes",
+    "description": "A serene valley with rolling hills and dense forests under a clear blue sky.",
+    "filename": "resources/data/photos/landscapes/img72.jpg",
+    "date": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/16",
+      "shutterSpeed": "1/250s",
+      "focalLength": "24mm"
+    }
+  },
+  {
+    "id": "73",
+    "title": "Framed Valley",
+    "category": "landscapes",
+    "description": "Rolling hills, framed by leafy branches in the foreground.",
+    "filename": "resources/data/photos/landscapes/img73.jpg",
+    "date": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/16",
+      "shutterSpeed": "1/250s",
+      "focalLength": "64mm"
+    }
+  },
+  {
+    "id": "74",
+    "title": "Spiked Bloom",
+    "category": "landscapes",
+    "description": "A tall flowering plant with dark purple blossoms and a thorny green stem stands out against lush foliage.",
+    "filename": "resources/data/photos/landscapes/img74.jpg",
+    "date": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/11",
+      "shutterSpeed": "1/60s",
+      "focalLength": "60mm"
+    }
+  },
+  {
+    "id": "75",
+    "title": "Pine Mirror",
+    "category": "landscapes",
+    "description": "A puddle on gravel reflects tall pine trees and the sky above, framed by rocks and scattered foliage.",
+    "filename": "resources/data/photos/landscapes/img75.jpg",
+    "date": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 1250,
+      "aperture": "f/16",
+      "shutterSpeed": "1/60s",
+      "focalLength": "62mm"
+    }
+  },
+  {
+    "id": "76",
+    "title": "Bridge in the Trees",
+    "category": "landscapes",
+    "description": "A concrete bridge with graffiti spans a forest stream, partially hidden behind tall trees and grasses.",
+    "filename": "resources/data/photos/landscapes/img76.jpg",
+    "date": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/16",
+      "shutterSpeed": "1/125s",
+      "focalLength": "76mm"
+    }
+  },
+  {
+    "id": "77",
+    "title": "Dappled Stillness",
+    "category": "landscapes",
+    "description": "A person stands quietly among tall trees and dense foliage as sunlight filters through the forest canopy.",
+    "filename": "resources/data/photos/landscapes/img77.jpg",
+    "date": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/9",
+      "shutterSpeed": "1/80s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "78",
+    "title": "Purple Blooms",
+    "category": "landscapes",
+    "description": "Bright purple flowers stand in the foreground of a lush valley, with rolling hills and a clear sky beyond.",
+    "filename": "resources/data/photos/landscapes/img78.jpg",
+    "date": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/9",
+      "shutterSpeed": "1/1000s",
+      "focalLength": "18mm"
+    }
+  },
+  {
+    "id": "79",
+    "title": "The Black-Faced Watchers",
+    "category": "landscapes",
+    "description": "A group of black-faced sheep with curved horns and yellow ear tags stand in a rural setting",
+    "filename": "resources/data/photos/landscapes/img79.jpg",
+    "date": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/1000s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "80",
+    "title": "The Hillside",
+    "category": "landscapes",
+    "description": "A wooden utility pole stands beside a road and fence, with green hills and a mountain rising under a partly cloudy sky.",
+    "filename": "resources/data/photos/landscapes/img80.jpg",
+    "date": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/9",
+      "shutterSpeed": "1/1000s",
+      "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "81",
+    "title": "Lone Tree in the Valley",
+    "category": "landscapes",
+    "description": "A solitary tree stands in a grassy field with rolling hills and forest in the background, bathed in soft morning or evening light.",
+    "filename": "resources/data/photos/landscapes/img81.jpg",
+    "date": "14/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/1000s",
+      "focalLength": "84mm"
+    }
+  },
+  {
+    "id": "82",
+    "title": "Lake Drift",
+    "category": "landscapes",
+    "description": "A person swims through dark, rippling water in a natural lake, with reflections and motion captured in a tranquil outdoor setting.",
+    "filename": "resources/data/photos/landscapes/img82.jpg",
+    "date": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/11",
+      "shutterSpeed": "1/500s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "83",
+    "title": "At Dusk",
+    "category": "landscapes",
+    "description": "A pond reflects at sunset, with a twisted tree and red post in the foreground and mountains silhouetted against a vibrant sky.",
+    "filename": "resources/data/photos/landscapes/img83.jpg",
+    "date": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/16",
+      "shutterSpeed": "1/125s",
+      "focalLength": "32mm"
+    }
+  },
+  {
+    "id": "84",
+    "title": "Framed in Red",
+    "category": "landscapes",
+    "description": "A vibrant red poppy stands out between two wooden planks, surrounded by lush greenery and wildflowers in a forested garden setting.",
+    "filename": "resources/data/photos/landscapes/img84.jpg",
+    "date": "13/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/11",
+      "shutterSpeed": "1/125s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "85",
+    "title": "Docked in Silence",
+    "category": "landscapes",
+    "description": "A solitary boat rests at the edge of a shoreline, captured in black and white",
+    "filename": "resources/data/photos/landscapes/img85.jpg",
+    "date": "18/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6 IS STM",
+      "iso": 800,
+      "aperture": "f/9",
+      "shutterSpeed": "1/80s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "86",
+    "title": "Dubai After Dark",
+    "category": "landscapes",
+    "description": "The Dubai skyline glows at night with illuminated skyscrapers, busy roads, and shimmering reflections on the water.",
+    "filename": "resources/data/photos/landscapes/img86.jpg",
+    "date": "26/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 1600,
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/10s",
+      "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "87",
+    "title": "The Ripples",
+    "category": "landscapes",
+    "description": "A rusted metal post stands in soft focus against a calm ocean horizon, with rocks and marine vegetation lining the shore.",
+    "filename": "resources/data/photos/landscapes/img87.jpg",
+    "date": "4/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 200,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/640s",
+      "focalLength": "45mm"
+    }
+  },
+  {
+    "id": "88",
+    "title": "Shadowpool",
+    "category": "landscapes",
+    "description": "Tree silhouettes reflect in a still puddle on damp gravel, capturing a quiet moment after the rain.",
+    "filename": "resources/data/photos/landscapes/img88.jpg",
+    "date": "15/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 500,
+      "aperture": "f/11",
+      "shutterSpeed": "1/80s",
+      "focalLength": "30mm"
     }
   }
 ]
