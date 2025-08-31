@@ -1,0 +1,1810 @@
+[
+  {
+    "id": "1",
+    "title": "Summertime Train Ride",
+    "category": "people",
+    "description": "Natural light portrait captured during golden hour",
+    "filename": "resources/data/photos/people/img1.jpg",
+    "date-taken": "12/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/100s",
+      "focalLength": "85mm"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Among The Trees",
+    "category": "people",
+    "description": "A warm outdoor portrait taken with natural light, featuring soft background blur and rich earthy tones that bring focus to the subject.",
+    "filename": "resources/data/photos/people/img2.jpg",
+    "date-taken": "4/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 250,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/160s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "3",
+    "title": "A Sweet Moment",
+    "category": "people",
+    "description": "A cheerful portrait of a child enjoying a lollipop, captured with a candid smile",
+    "filename": "resources/data/photos/people/img3.jpg",
+    "date-taken": "5/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 1600,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/30s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Golden Hour Silence",
+    "category": "people",
+    "description": "A quiet portrait captured in soft evening light, with warm tones and a calm atmosphere",
+    "filename": "resources/data/photos/people/img4.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Waiting For The Next Ride",
+    "category": "people",
+    "description": " A lone figure waits at the bus stop, eyes fixed on their screen, as time hums quietly around them.",
+    "filename": "resources/data/photos/people/img5.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/30s",
+      "focalLength": "70mm"
+    }
+  },
+  {
+    "id": "6",
+    "title": "In The Shade Of Silence",
+    "category": "people",
+    "description": " Half-hidden in green, a quiet figure leans into nature’s hush",
+    "filename": "resources/data/photos/people/img6.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/80s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "7",
+    "title": "Between The Lines & Lights",
+    "category": "people",
+    "description": "A lone figure stands in shadow, caught between sunlight and lines",
+    "filename": "resources/data/photos/people/img7.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 200,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "70mm"
+    }
+  },
+  {
+    "id": "8",
+    "title": "2 Musicians",
+    "category": "people",
+    "description": "Two street musicians performing together, one playing guitar while the other plays the drumsnearby",
+    "filename": "resources/data/photos/people/img8.jpg",
+    "date-taken": "11/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 640,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "70mm"
+    }
+  },
+  {
+    "id": "9",
+    "title": "Street Singer",
+    "category": "people",
+    "description": "A passionate street performer singing into a microphone during an outdoor performance",
+    "filename": "resources/data/photos/people/img9.jpg",
+    "date-taken": "11/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 640,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "10",
+    "title": "A Street Performance",
+    "category": "people",
+    "description": "A street musician performs with a guitar and microphone in an outdoor setting.",
+    "filename": "resources/data/photos/people/img10.jpg",
+    "date-taken": "11/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 640,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "11",
+    "title": " 2 Strides",
+    "category": "people",
+    "description": "Two people walking along a cobbled street at dusk.",
+    "filename": "resources/data/photos/people/img11.jpg",
+    "date-taken": "14/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "12",
+    "title": "Brick Passage",
+    "category": "people",
+    "description": "A figure walking through a narrow brick entrance.",
+    "filename": "resources/data/photos/people/img12.jpg",
+    "date-taken": "14/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/8",
+      "shutterSpeed": "1/50s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "13",
+    "title": "City Hangout",
+    "category": "people",
+    "description": "A group of friends gather on a concrete ledge in the city, chatting and relaxing near a graffiti-covered wall. The moody lighting and urban backdrop give the moment a cinematic feel.",
+    "filename": "resources/data/photos/people/img13.jpg",
+    "date-taken": "28/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "14",
+    "title": "A Park Stroll",
+    "category": "people",
+    "description": "A candid moment of a person walking their dog in a park, surrounded by playgrounds and passersby.",
+    "filename": "resources/data/photos/people/img14.jpg",
+    "date-taken": "28/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "125mm"
+    }
+  },
+  {
+    "id": "15",
+    "title": "Street Pause",
+    "category": "people",
+    "description": "A candid street moment of a person standing at a crosswalk framed by traffic signs.",
+    "filename": "resources/data/photos/people/img15.jpg",
+    "date-taken": "11/6/2015",
+    "cameraInfo": {
+      "camera": "Canon EOS 5D Mark III",
+      "lens": "EF50mm f/1.4 USM",
+      "iso": 800,
+      "aperture": "f/6",
+      "shutterSpeed": "1/80s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "16",
+    "title": "Red Light Wait",
+    "category": "people",
+    "description": "A lone figure waits at a city crossing under the glow of a red light, framed by blurred headlights and the hum of passing traffic.",
+    "filename": "resources/data/photos/people/img16.jpg",
+    "date-taken": "28/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 500,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/25s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "17",
+    "title": "A Stare into the Riverside",
+    "category": "people",
+    "description": "A quiet moment of a person standing by a stream in the countryside, gazing into the distance as soft hills and greenery blur into the background.",
+    "filename": "resources/data/photos/people/img17.jpg",
+    "date-taken": "15/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 160,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/160s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "18",
+    "title": "Bridge Between Journeys",
+    "category": "people",
+    "description": "Two hikers pause on a wooden bridge surrounded by forest, their backpacks and relaxed stance capturing a calm moment in the middle of the trail.",
+    "filename": "resources/data/photos/people/img18.jpg",
+    "date-taken": "15/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 160,
+      "aperture": "f/8",
+      "shutterSpeed": "1/500s",
+      "focalLength": "59mm"
+    }
+  },
+  {
+    "id": "19",
+    "title": "Reflections in Blue",
+    "category": "people",
+    "description": "A striking reflection of a person standing near water, their blue jacket mirrored in the still surface alongside rocks and grass.",
+    "filename": "resources/data/photos/people/img19.jpg",
+    "date-taken": "16/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/10",
+      "shutterSpeed": "1/250s",
+      "focalLength": "95mm"
+    }
+  },
+  {
+    "id": "20",
+    "title": "Under Rain and Leaves",
+    "category": "people",
+    "description": "A moody portrait of a person standing beneath large leaves, eyes closed as droplets fall.",
+    "filename": "resources/data/photos/people/img20.jpg",
+    "date-taken": "16/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 1250,
+      "aperture": "f/16",
+      "shutterSpeed": "1/60s",
+      "focalLength": "64mm"
+    }
+  },
+  {
+    "id": "21",
+    "title": "Still Waters",
+    "category": "people",
+    "description": "A serene scene of a person standing waist-deep in calm water, their reflection stretching across the surface.",
+    "filename": "resources/data/photos/people/img21.jpg",
+    "date-taken": "16/1/2023",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/11",
+      "shutterSpeed": "1/500s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "22",
+    "title": "Meeting by the Field",
+    "category": "people",
+    "description": "A peaceful moment of a person standing behind a hedge, watching a white horse graze in a sunlit field.",
+    "filename": "resources/data/photos/people/img22.jpg",
+    "date-taken": "25/5/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "RF-S18-150mm F3.5-6.3 IS STM",
+      "iso": 200,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/500s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "23",
+    "title": "Wide-Eyed Wonder",
+    "category": "people",
+    "description": "A close-up of a young child with a curious, expressive gaze.",
+    "filename": "resources/data/photos/people/img23.jpg",
+    "date-taken": "13/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 800,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/60s",
+      "focalLength": "51mm"
+    }
+  },
+  {
+    "id": "24",
+    "title": "Sunlit Stance",
+    "category": "people",
+    "description": "A person standing on a tree-lined path with arms crossed, sunlight filtering through the leaves.",
+    "filename": "resources/data/photos/people/img24.jpg",
+    "date-taken": "17/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 100,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/160s",
+      "focalLength": "52mm"
+    }
+  },
+  {
+    "id": "25",
+    "title": "Dressed for the Occasion",
+    "category": "people",
+    "description": "A sharply dressed person in a light gray suit with a pink boutonniere, standing in a warmly lit indoor setting.",
+    "filename": "resources/data/photos/people/img25.jpg",
+    "date-taken": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 400,
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/125s",
+      "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "26",
+    "title": "Embrace in Green",
+    "category": "people",
+    "description": "A tender embrace between father and child in matching dark green suits.",
+    "filename": "resources/data/photos/people/img26.jpg",
+    "date-taken": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 800,
+      "aperture": "f/4",
+      "shutterSpeed": "1/125s",
+      "focalLength": "40mm"
+    }
+  },
+  {
+    "id": "27",
+    "title": "Breezy Call on Brick Street",
+    "category": "people",
+    "description": "A person in a cream crocheted cardigan stands on a city street, holding a phone as the breeze catches their hair.",
+    "filename": "resources/data/photos/people/img27.jpg",
+    "date-taken": "24/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 200,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/320s",
+      "focalLength": "50mm"
+    }
+  },
+  {
+    "id": "28",
+    "title": "Sunlit Smile",
+    "category": "people",
+    "description": "A person smiles softly in warm natural light between the trees and a stone wall.",
+    "filename": "resources/data/photos/people/img28.jpg",
+    "date-taken": "24/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 200,
+      "aperture": "f/5",
+      "shutterSpeed": "1/250s",
+      "focalLength": "45mm"
+    }
+  },
+  {
+    "id": "29",
+    "title": "Celebration in Motion",
+    "category": "people",
+    "description": "A joyful group gathered around the dance floor, hands raised in shared celebration.",
+    "filename": "resources/data/photos/people/img29.jpg",
+    "date-taken": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 400,
+      "aperture": "f/4",
+      "shutterSpeed": "1/100s",
+      "focalLength": "20mm"
+    }
+  },
+  {
+    "id": "30",
+    "title": "Maroon and Light",
+    "category": "people",
+    "description": "A portrait of a person in a maroon suit and red patterned tie, his face lit by flash against the dim, elegant backdrop of a celebration.",
+    "filename": "resources/data/photos/people/img30.jpg",
+    "date-taken": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 200,
+      "aperture": "f/5",
+      "shutterSpeed": "1/200s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "31",
+    "title": "Groom in the Spotlight",
+    "category": "people",
+    "description": "The groom dances at the center of the floor, surrounded by friends and family celebrating around him.",
+    "filename": "resources/data/photos/people/img31.jpg",
+    "date-taken": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 200,
+      "aperture": "f/5",
+      "shutterSpeed": "1/200s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "32",
+    "title": "Raised in Unity",
+    "category": "people",
+    "description": "Men in suits raise their fists together, the central figure standing out against the dark background.",
+    "filename": "resources/data/photos/people/img32.jpg",
+    "date-taken": "19/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6",
+      "iso": 200,
+      "aperture": "f/5",
+      "shutterSpeed": "1/200s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "33",
+    "title": "Stone Wall Stillness",
+    "category": "people",
+    "description": "A person stands against a stone wall, hands together in a quiet, thoughtful pose.",
+    "filename": "resources/data/photos/people/img33.jpg",
+    "date-taken": "29/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/160s",
+      "focalLength": "56mm"
+    }
+  },
+  {
+    "id": "34",
+    "title": "Sidewalk Conversation",
+    "category": "people",
+    "description": "Two older people walk past a construction sign on a cool day.",
+    "filename": "resources/data/photos/people/img34.jpg",
+    "date-taken": "29/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 500,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/320s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "35",
+    "title": "Between Buildings",
+    "category": "people",
+    "description": "A person stands outdoors in front of modern and older buildings, wearing a light jacket with dark accents.",
+    "filename": "resources/data/photos/people/img35.jpg",
+    "date-taken": "29/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/640s",
+      "focalLength": "76mm"
+    }
+  },
+  {
+    "id": "36",
+    "title": "Shared Joys",
+    "category": "people",
+    "description": "2 friends sharing a funny and joyful moment.",
+    "filename": "resources/data/photos/people/img36.jpg",
+    "date-taken": "29/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/5",
+      "shutterSpeed": "1/500s",
+      "focalLength": "41mm"
+    }
+  },
+  {
+    "id": "37",
+    "title": "Upward in Thought",
+    "category": "people",
+    "description": "A moody portrait of a person in a dark hoodie, gazing upward against a textured wall.",
+    "filename": "resources/data/photos/people/img37.jpg",
+    "date-taken": "29/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/200s",
+      "focalLength": "59mm"
+    }
+  },
+  {
+    "id": "38",
+    "title": "Bright Smiles",
+    "category": "people",
+    "description": "A smiling person in a sweater stands outside, wind blowing their hair.",
+    "filename": "resources/data/photos/people/img38.jpg",
+    "date-taken": "1/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/320s",
+      "focalLength": "56mm"
+    }
+  },
+  {
+    "id": "39",
+    "title": "A Breeze of Laughter",
+    "category": "people",
+    "description": "A mother holds her baby, both sharing a joyful look in a warmly lit moment.",
+    "filename": "resources/data/photos/people/img39.jpg",
+    "date-taken": "4/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/160s",
+      "focalLength": "50mm"
+    }
+  },
+  {
+    "id": "40",
+    "title": "Strings in the Streetlight",
+    "category": "people",
+    "description": "A musician in a denim jacket sings and plays guitar during an outdoor performance.",
+    "filename": "resources/data/photos/people/img40.jpg",
+    "date-taken": "8/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 640,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "41",
+    "title": "A Musician's Moment",
+    "category": "people",
+    "description": "A musician plays the guitar as music fills the air.",
+    "filename": "resources/data/photos/people/img41.jpg",
+    "date-taken": "8/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 640,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "42",
+    "title": "A serious Portrait",
+    "category": "people",
+    "description": "A person in a dark jacket stands before a blurred city backdrop.",
+    "filename": "resources/data/photos/people/img42.jpg",
+    "date-taken": "8/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "43",
+    "title": "Focused Strings",
+    "category": "people",
+    "description": "A musician in a white t-shirt plays guitar and sings into a microphone.",
+    "filename": "resources/data/photos/people/img43.jpg",
+    "date-taken": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/100s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "44",
+    "title": "Melody by the Window",
+    "category": "people",
+    "description": "A woman sings as a guitarist plays beside her during an outdoor performance.",
+    "filename": "resources/data/photos/people/img44.jpg",
+    "date-taken": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/100s",
+      "focalLength": "132mm"
+    }
+  },
+  {
+    "id": "45",
+    "title": "Urban Portrait",
+    "category": "people",
+    "description": "A young person in a white t-shirt and headphones stands against a dark background.",
+    "filename": "resources/data/photos/people/img45.jpg",
+    "date-taken": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 500,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/25s",
+      "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "46",
+    "title": "Backstreet Vibes",
+    "category": "people",
+    "description": "A person in a white t-shirt with headphones stands lit against a dark backdrop.",
+    "filename": "resources/data/photos/people/img46.jpg",
+    "date-taken": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 500,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/25s",
+      "focalLength": "30mm"
+    }
+  },
+  {
+    "id": "47",
+    "title": "Before The Performance",
+    "category": "people",
+    "description": "A woman with glasses stands at a microphone during an outdoor performance.",
+    "filename": "resources/data/photos/people/img47.jpg",
+    "date-taken": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "48",
+    "title": "Light Between Us",
+    "category": "people",
+    "description": "Two people sit on the ground in near darkness, lit softly by a small light between them.",
+    "filename": "resources/data/photos/people/img48.jpg",
+    "date-taken": "15/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 32000,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/15s",
+      "focalLength": "18mm"
+    }
+  },
+  {
+    "id": "49",
+    "title": "Reflections in Black and White",
+    "category": "people",
+    "description": "The reflection of a person appears upside down in still water among rocks and plants.",
+    "filename": "resources/data/photos/people/img49.jpg",
+    "date-taken": "24/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/10",
+      "shutterSpeed": "1/250s",
+      "focalLength": "95mm"
+    }
+  },
+  {
+    "id": "50",
+    "title": "Face in the Light",
+    "category": "people",
+    "description": "A person in a dark jacket stands out against a black background, lit dramatically from the front.",
+    "filename": "resources/data/photos/people/img50.jpg",
+    "date-taken": "24/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/5",
+      "shutterSpeed": "1/60s",
+      "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "51",
+    "title": "A Stroll Through Trinity College",
+    "category": "landscapes",
+    "description": "Historic stone buildings stand beside modern glass structures, with people walking below.",
+    "filename": "resources/data/photos/landscapes/img51.jpg",
+    "date-taken": "1/1/2024",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 125,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/320s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "52",
+    "title": "Blush of Hydrangeas",
+    "category": "landscapes",
+    "description": "Vibrant pink hydrangeas bloom against a backdrop of green foliage.",
+    "filename": "resources/data/photos/landscapes/img52.jpg",
+    "date-taken": "1/1/2024",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/320s",
+      "focalLength": "89mm"
+    }
+  },
+  {
+    "id": "53",
+    "title": "Field Selfie",
+    "category": "landscapes",
+    "description": "A person stands on a grassy field under a clear blue sky, holding a phone in front of them.",
+    "filename": "resources/data/photos/landscapes/img53.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/640s",
+      "focalLength": "95mm"
+    }
+  },
+  {
+    "id": "54",
+    "title": "Berries on the Fence",
+    "category": "landscapes",
+    "description": "Bright red rowan berries hang beside a black metal fence, lit by soft sunlight.",
+    "filename": "resources/data/photos/landscapes/img54.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/40s",
+      "focalLength": "66mm"
+    }
+  },
+  {
+    "id": "55",
+    "title": "Purple Bloom",
+    "category": "landscapes",
+    "description": "A single purple flower stands tall against a dark leafy background and pale stone curve.",
+    "filename": "resources/data/photos/landscapes/img55.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "56",
+    "title": "Graffiti and Decay",
+    "category": "landscapes",
+    "description": "An abandoned concrete building covered in vines and graffiti sits among autumn trees.",
+    "filename": "resources/data/photos/landscapes/img56.jpg",
+    "date-taken": "15/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 200,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/125s",
+      "focalLength": "89mm"
+    }
+  },
+  {
+    "id": "57",
+    "title": "Forest Gaze",
+    "category": "landscapes",
+    "description": "A person stands on a forest path, looking up at the tall trees around them.",
+    "filename": "resources/data/photos/landscapes/img57.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/80s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "58",
+    "title": "By the Streamside",
+    "category": "landscapes",
+    "description": "A person stands near a forest stream, surrounded by lush greenery and filtered sunlight.",
+    "filename": "resources/data/photos/landscapes/img58.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 250,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/100s",
+      "focalLength": "47mm"
+    }
+  },
+  {
+    "id": "59",
+    "title": "The stream beneath",
+    "category": "landscapes",
+    "description": "A close-up view of clear water rushing over mossy rocks, taken from a bridge above.",
+    "filename": "resources/data/photos/landscapes/img59.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 250,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/100s",
+      "focalLength": "50mm"
+    }
+  },
+  {
+    "id": "60",
+    "title": "Sky above The Cobblestones",
+    "category": "landscapes",
+    "description": "Cars move along a cobblestone street lined with buildings, under a cloudy sky.",
+    "filename": "resources/data/photos/landscapes/img60.jpg",
+    "date-taken": "14/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/8",
+      "shutterSpeed": "1/50s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "61",
+    "title": "Twin Presence",
+    "category": "landscapes",
+    "description": "Two people in white shirts stand among dense green ferns in a forest",
+    "filename": "resources/data/photos/landscapes/img61.jpg",
+    "date-taken": "15/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 160,
+      "aperture": "f/11",
+      "shutterSpeed": "1/125s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "62",
+    "title": "Ripples and Rock",
+    "category": "landscapes",
+    "description": "Clear water rushes over pebbles and a large stone, surrounded by green vegetation.",
+    "filename": "resources/data/photos/landscapes/img62.jpg",
+    "date-taken": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 160,
+      "aperture": "f/11",
+      "shutterSpeed": "1/250s",
+      "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "63",
+    "title": "Riverbend Silence",
+    "category": "landscapes",
+    "description": "A shallow stream winds through smooth stones and forest trees under a soft, cloudy sky.",
+    "filename": "resources/data/photos/landscapes/img63.jpg",
+    "date-taken": "14/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 200,
+      "aperture": "f/22",
+      "shutterSpeed": "1/60s",
+      "focalLength": "18mm"
+    }
+  },
+  {
+    "id": "64",
+    "title": "Forest Lightfall",
+    "category": "landscapes",
+    "description": "Sunlight filters through tall trees onto a grassy forest floor.",
+    "filename": "resources/data/photos/landscapes/img64.jpg",
+    "date-taken": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/11",
+      "shutterSpeed": "1/125s",
+      "focalLength": "18mm"
+    }
+  },
+  {
+    "id": "65",
+    "title": "By the Stream",
+    "category": "landscapes",
+    "description": "A cutting board hangs from a branch while a person stands on a rocky riverbank in a forest.",
+    "filename": "resources/data/photos/landscapes/img65.jpg",
+    "date-taken": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 125,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/1600s",
+      "focalLength": "18mm"
+    }
+  },
+  {
+    "id": "66",
+    "title": "Amber Current",
+    "category": "landscapes",
+    "description": "A mossy rock sits in a shallow stream as warm light reflects off the rippling water.",
+    "filename": "resources/data/photos/landscapes/img66.jpg",
+    "date-taken": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/9",
+      "shutterSpeed": "1/250s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "67",
+    "title": "Camp Under the Canopy",
+    "category": "landscapes",
+    "description": "Two tents sit in a grassy clearing surrounded by trees, with a person relaxing near a stone fire pit.",
+    "filename": "resources/data/photos/landscapes/img67.jpg",
+    "date-taken": "14/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/9",
+      "shutterSpeed": "1/250s",
+      "focalLength": "122mm"
+    }
+  },
+  {
+    "id": "68",
+    "title": "Forest Viewpoint",
+    "category": "landscapes",
+    "description": "A person sits outdoors in a blue shirt, gazing at a forested stream surrounded by tall evergreens.",
+    "filename": "resources/data/photos/landscapes/img68.jpg",
+    "date-taken": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "54mm"
+    }
+  },
+  {
+    "id": "69",
+    "title": "Layered Green",
+    "category": "landscapes",
+    "description": "Tall pine trees rise behind broad-leaved shrubs as sunlight filters through the dense forest canopy.",
+    "filename": "resources/data/photos/landscapes/img69.jpg",
+    "date-taken": "15/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/13",
+      "shutterSpeed": "1/250s",
+      "focalLength": "81mm"
+    }
+  },
+  {
+    "id": "70",
+    "title": "Riverbank Rest",
+    "category": "landscapes",
+    "description": "A goat lies on a pebbled shore beside a calm river, with grassy fields and trees beyond a wire fence.",
+    "filename": "resources/data/photos/landscapes/img70.jpg",
+    "date-taken": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/16",
+      "shutterSpeed": "1/250s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "71",
+    "title": "Path Through the Trees",
+    "category": "landscapes",
+    "description": "Two people walk along a rocky trail surrounded by dense forest greenery.",
+    "filename": "resources/data/photos/landscapes/img71.jpg",
+    "date-taken": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/16",
+      "shutterSpeed": "1/250s",
+      "focalLength": "86mm"
+    }
+  },
+  {
+    "id": "72",
+    "title": "The Valley",
+    "category": "landscapes",
+    "description": "A serene valley with rolling hills and dense forests under a clear blue sky.",
+    "filename": "resources/data/photos/landscapes/img72.jpg",
+    "date-taken": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/16",
+      "shutterSpeed": "1/250s",
+      "focalLength": "24mm"
+    }
+  },
+  {
+    "id": "73",
+    "title": "Framed Valley",
+    "category": "landscapes",
+    "description": "Rolling hills, framed by leafy branches in the foreground.",
+    "filename": "resources/data/photos/landscapes/img73.jpg",
+    "date-taken": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 320,
+      "aperture": "f/16",
+      "shutterSpeed": "1/250s",
+      "focalLength": "64mm"
+    }
+  },
+  {
+    "id": "74",
+    "title": "Spiked Bloom",
+    "category": "landscapes",
+    "description": "A tall flowering plant with dark purple blossoms and a thorny green stem stands out against lush foliage.",
+    "filename": "resources/data/photos/landscapes/img74.jpg",
+    "date-taken": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/11",
+      "shutterSpeed": "1/60s",
+      "focalLength": "60mm"
+    }
+  },
+  {
+    "id": "75",
+    "title": "Pine Mirror",
+    "category": "landscapes",
+    "description": "A puddle on gravel reflects tall pine trees and the sky above, framed by rocks and scattered foliage.",
+    "filename": "resources/data/photos/landscapes/img75.jpg",
+    "date-taken": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 1250,
+      "aperture": "f/16",
+      "shutterSpeed": "1/60s",
+      "focalLength": "62mm"
+    }
+  },
+  {
+    "id": "76",
+    "title": "Bridge in the Trees",
+    "category": "landscapes",
+    "description": "A concrete bridge with graffiti spans a forest stream, partially hidden behind tall trees and grasses.",
+    "filename": "resources/data/photos/landscapes/img76.jpg",
+    "date-taken": "13/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/16",
+      "shutterSpeed": "1/125s",
+      "focalLength": "76mm"
+    }
+  },
+  {
+    "id": "77",
+    "title": "Dappled Stillness",
+    "category": "landscapes",
+    "description": "A person stands quietly among tall trees and dense foliage as sunlight filters through the forest canopy.",
+    "filename": "resources/data/photos/landscapes/img77.jpg",
+    "date-taken": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/9",
+      "shutterSpeed": "1/80s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "78",
+    "title": "Purple Blooms",
+    "category": "landscapes",
+    "description": "Bright purple flowers stand in the foreground of a lush valley, with rolling hills and a clear sky beyond.",
+    "filename": "resources/data/photos/landscapes/img78.jpg",
+    "date-taken": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/9",
+      "shutterSpeed": "1/1000s",
+      "focalLength": "18mm"
+    }
+  },
+  {
+    "id": "79",
+    "title": "The Black-Faced Watchers",
+    "category": "landscapes",
+    "description": "A group of black-faced sheep with curved horns and yellow ear tags stand in a rural setting",
+    "filename": "resources/data/photos/landscapes/img79.jpg",
+    "date-taken": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/1000s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "80",
+    "title": "The Hillside",
+    "category": "landscapes",
+    "description": "A wooden utility pole stands beside a road and fence, with green hills and a mountain rising under a partly cloudy sky.",
+    "filename": "resources/data/photos/landscapes/img80.jpg",
+    "date-taken": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/9",
+      "shutterSpeed": "1/1000s",
+      "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "81",
+    "title": "Lone Tree in the Valley",
+    "category": "landscapes",
+    "description": "A solitary tree stands in a grassy field with rolling hills and forest in the background, bathed in soft morning or evening light.",
+    "filename": "resources/data/photos/landscapes/img81.jpg",
+    "date-taken": "14/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/1000s",
+      "focalLength": "84mm"
+    }
+  },
+  {
+    "id": "82",
+    "title": "Lake Drift",
+    "category": "landscapes",
+    "description": "A person swims through dark, rippling water in a natural lake, with reflections and motion captured in a tranquil outdoor setting.",
+    "filename": "resources/data/photos/landscapes/img82.jpg",
+    "date-taken": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/11",
+      "shutterSpeed": "1/500s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "83",
+    "title": "At Dusk",
+    "category": "landscapes",
+    "description": "A pond reflects at sunset, with a twisted tree and red post in the foreground and mountains silhouetted against a vibrant sky.",
+    "filename": "resources/data/photos/landscapes/img83.jpg",
+    "date-taken": "16/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/16",
+      "shutterSpeed": "1/125s",
+      "focalLength": "32mm"
+    }
+  },
+  {
+    "id": "84",
+    "title": "Framed in Red",
+    "category": "landscapes",
+    "description": "A vibrant red poppy stands out between two wooden planks, surrounded by lush greenery and wildflowers in a forested garden setting.",
+    "filename": "resources/data/photos/landscapes/img84.jpg",
+    "date-taken": "13/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 400,
+      "aperture": "f/11",
+      "shutterSpeed": "1/125s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "85",
+    "title": "Docked in Silence",
+    "category": "landscapes",
+    "description": "A solitary boat rests at the edge of a shoreline, captured in black and white",
+    "filename": "resources/data/photos/landscapes/img85.jpg",
+    "date-taken": "18/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "Canon EF-S18-55mm f/3.5-5.6 IS STM",
+      "iso": 800,
+      "aperture": "f/9",
+      "shutterSpeed": "1/80s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "86",
+    "title": "Dubai After Dark",
+    "category": "landscapes",
+    "description": "The Dubai skyline glows at night with illuminated skyscrapers, busy roads, and shimmering reflections on the water.",
+    "filename": "resources/data/photos/landscapes/img86.jpg",
+    "date-taken": "26/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 1600,
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/10s",
+      "focalLength": "35mm"
+    }
+  },
+  {
+    "id": "87",
+    "title": "The Ripples",
+    "category": "landscapes",
+    "description": "A rusted metal post stands in soft focus against a calm ocean horizon, with rocks and marine vegetation lining the shore.",
+    "filename": "resources/data/photos/landscapes/img87.jpg",
+    "date-taken": "4/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 200,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/640s",
+      "focalLength": "45mm"
+    }
+  },
+  {
+    "id": "88",
+    "title": "Shadowpool",
+    "category": "landscapes",
+    "description": "Tree silhouettes reflect in a still puddle on damp gravel, capturing a quiet moment after the rain.",
+    "filename": "resources/data/photos/landscapes/img88.jpg",
+    "date-taken": "15/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 500,
+      "aperture": "f/11",
+      "shutterSpeed": "1/80s",
+      "focalLength": "30mm"
+    }
+  },
+  {
+    "id": "89",
+    "title": "Perched",
+    "category": "abstract",
+    "description": "A seagull stands in profile atop a dark angular ledge, framed against a cloudy sky.",
+    "filename": "resources/data/photos/abstract/img89.jpg",
+    "date-taken": "1/1/2024",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/10",
+      "shutterSpeed": "1/640s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "90",
+    "title": "Concrete Bloom",
+    "category": "abstract",
+    "description": "A small green plant with serrated leaves emerges from dark soil beside a concrete surface.",
+    "filename": "resources/data/photos/abstract/img90.jpg",
+    "date-taken": "3/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "91",
+    "title": "Slit of Light",
+    "category": "abstract",
+    "description": "A glowing street light pierces through darkness.",
+    "filename": "resources/data/photos/abstract/img91.jpg",
+    "date-taken": "3/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/5",
+      "shutterSpeed": "8s",
+      "focalLength": "43mm"
+    }
+  },
+  {
+    "id": "92",
+    "title": "Beacon in the Void",
+    "category": "abstract",
+    "description": "A streetlight glows against a pitch-black sky, its yellow beam cutting through the darkness.",
+    "filename": "resources/data/photos/abstract/img92.jpg",
+    "date-taken": "3/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/8s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "93",
+    "title": "Idle Elegance",
+    "category": "abstract",
+    "description": "A vintage-style scooter rests beside a city street.",
+    "filename": "resources/data/photos/abstract/img93.jpg",
+    "date-taken": "3/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/500s",
+      "focalLength": "47mm"
+    }
+  },
+  {
+    "id": "94",
+    "title": "Petals",
+    "category": "abstract",
+    "description": "Bright red and purple petunias bloom from a weathered wooden fence as they glow softly in the evening light.",
+    "filename": "resources/data/photos/abstract/img94.jpg",
+    "date-taken": "6/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/10",
+      "shutterSpeed": "1/60s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "95",
+    "title": "Split",
+    "category": "abstract",
+    "description": "A patch of grass is divided by light and shadow, with vibrant greenery on one side and a ball nestled in the darker half.",
+    "filename": "resources/data/photos/abstract/img95.jpg",
+    "date-taken": "6/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/11",
+      "shutterSpeed": "1/125s",
+      "focalLength": "135mm"
+    }
+  },
+  {
+    "id": "96",
+    "title": "Passing Pulse",
+    "category": "abstract",
+    "description": "A black car streaks across a suburban road in a blur of speed and red light.",
+    "filename": "resources/data/photos/abstract/img96.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/32",
+      "shutterSpeed": "1/4s",
+      "focalLength": "47mm"
+    }
+  },
+  {
+    "id": "97",
+    "title": "Blurline",
+    "category": "abstract",
+    "description": "A silver car cuts through the frame in a blur of motion, its form stretched and distorted by speed.",
+    "filename": "resources/data/photos/abstract/img97.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/32",
+      "shutterSpeed": "1/8s",
+      "focalLength": "47mm"
+    }
+  },
+  {
+    "id": "98",
+    "title": "Column Overgrown",
+    "category": "abstract",
+    "description": "A tall brick column rises against a blue sky, framed by a black metal fence and surrounding trees and vines.",
+    "filename": "resources/data/photos/abstract/img98.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 250,
+      "aperture": "f/16",
+      "shutterSpeed": "1/100s",
+      "focalLength": "44mm"
+    }
+  },
+  {
+    "id": "99",
+    "title": "Conefall",
+    "category": "abstract",
+    "description": "Two traffic cones rest near a crossing, one upright and the other toppled over.",
+    "filename": "resources/data/photos/abstract/img99.jpg",
+    "date-taken": "8/1/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 250,
+      "aperture": "f/16",
+      "shutterSpeed": "1/100s",
+      "focalLength": "118mm"
+    }
+  },
+  {
+    "id": "100",
+    "title": "Steel Against Blue",
+    "category": "abstract",
+    "description": "A tall cylindrical pole rises into a clear blue sky, its height exaggerated by a low-angle view flanked by leafy branches that cast a soft shadow.",
+    "filename": "resources/data/photos/abstract/img100.jpg",
+    "date-taken": "8/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 250,
+      "aperture": "f/16",
+      "shutterSpeed": "1/100s",
+      "focalLength": "18mm"
+    }
+  },
+  {
+    "id": "101",
+    "title": "Urban Rush",
+    "category": "abstract",
+    "description": "A dark-colored car blurs through a busy street, its motion captured in streaks of speed and shadow.",
+    "filename": "resources/data/photos/abstract/img101.jpg",
+    "date-taken": "8/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/36",
+      "shutterSpeed": "1/4s",
+      "focalLength": "60mm"
+    }
+  },
+  {
+    "id": "102",
+    "title": "Momentum",
+    "category": "abstract",
+    "description": "A green Dublin bus blurs through a roundabout, its vibrant colors streaked by motion and light as trees dissolve into the background.",
+    "filename": "resources/data/photos/abstract/img102.jpg",
+    "date-taken": "8/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/36",
+      "shutterSpeed": "1/4s",
+      "focalLength": "60mm"
+    }
+  },
+  {
+    "id": "103",
+    "title": "Contrast",
+    "category": "abstract",
+    "description": "A bird rests on a dark stone wall, set against a glowing brick building with reflective glass windows.",
+    "filename": "resources/data/photos/abstract/img103.jpg",
+    "date-taken": "14/6/2023",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/50s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "104",
+    "title": "Stillness in Stone",
+    "category": "abstract",
+    "description": "A lone seagull stands quietly on a dark ledge, framed by manicured hedges and reflective windows.",
+    "filename": "resources/data/photos/abstract/img104.jpg",
+    "date-taken": "14/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "105",
+    "title": "Red Directive",
+    "category": "abstract",
+    "description": "A glowing red traffic light stands against a modern building facade, its signal frozen in time.",
+    "filename": "resources/data/photos/abstract/img105.jpg",
+    "date-taken": "15/5/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125s",
+      "focalLength": "88mm"
+    }
+  },
+  {
+    "id": "106",
+    "title": "Interior Glow",
+    "category": "abstract",
+    "description": "A night time view of a building reveals a glowing industrial interior through glass windows, contrasted against a dark metallic facade.",
+    "filename": "resources/data/photos/abstract/img106.jpg",
+    "date-taken": "14/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/15s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "107",
+    "title": "Drive State",
+    "category": "abstract",
+    "description": "A dimly lit dashboard glows with red and white gauges, capturing a moment in motion.",
+    "filename": "resources/data/photos/abstract/img107.jpg",
+    "date-taken": "8/6/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "EF-S18-55mm f/3.5-5.6 IS STM",
+      "iso": 6400,
+      "aperture": "f/22",
+      "shutterSpeed": "1/125s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "108",
+    "title": "Design in Stillness",
+    "category": "abstract",
+    "description": "A black metal candle holder shaped like a cart rests atop a magazine titled 'Scandinavia Dreaming'. Warm lighting and reflective surfaces create a quiet, silent moment",
+    "filename": "resources/data/photos/abstract/img108.jpg",
+    "date-taken": "15/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS 200D",
+      "lens": "EF-S18-55mm f/3.5-5.6 IS STM",
+      "iso": 1600,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/60s",
+      "focalLength": "55mm"
+    }
+  },
+  {
+    "id": "109",
+    "title": "Harbour of Hushed Lines",
+    "category": "abstract",
+    "description": "A sleek boat rests quietly at a dock, tethered by ropes and framed by calm water and neighboring vessels.",
+    "filename": "resources/data/photos/abstract/img109.jpg",
+    "date-taken": "29/7/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/800s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "110",
+    "title": "Watchpoint",
+    "category": "abstract",
+    "description": "A rooftop surveillance camera stands still against muted tones of brick and metal.",
+    "filename": "resources/data/photos/abstract/img110.jpg",
+    "date-taken": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "111",
+    "title": "Concrete Perch",
+    "category": "abstract",
+    "description": "A lone seagull faces the camera from a dark ledge, framed by glass and steel.",
+    "filename": "resources/data/photos/abstract/img111.jpg",
+    "date-taken": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 100,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/50s",
+      "focalLength": "150mm"
+    }
+  },
+  {
+    "id": "112",
+    "title": "Urban Shadows",
+    "category": "abstract",
+    "description": "A traffic signal anchors a grayscale cityscape, surrounded by buses, wires, and signs as people go about their busy days.",
+    "filename": "resources/data/photos/abstract/img112.jpg",
+    "date-taken": "10/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 500,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/25s",
+      "focalLength": "100mm"
+    }
+  },
+  {
+    "id": "113",
+    "title": "Rust and Reverie",
+    "category": "abstract",
+    "description": "An old tractor rests beside a weathered barn, its wheels tangled in overgrowth.",
+    "filename": "resources/data/photos/abstract/img113.jpg",
+    "date-taken": "15/8/2025",
+    "cameraInfo": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S18-150mm f/3.5-6.3 IS STM",
+      "iso": 800,
+      "aperture": "f/9",
+      "shutterSpeed": "1/500s",
+      "focalLength": "35mm"
+    }
+  }
+]
