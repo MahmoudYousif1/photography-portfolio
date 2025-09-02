@@ -47,14 +47,8 @@ ingress:
 
 resources: {}
 
-livenessProbe:
-  httpGet:
-    path: /
-    port: http
-readinessProbe:
-  httpGet:
-    path: /
-    port: http
+livenessProbe: {}
+readinessProbe: {}
 
 autoscaling:
   enabled: false
