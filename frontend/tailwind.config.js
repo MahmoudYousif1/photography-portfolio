@@ -5,7 +5,17 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'baskerville': ['BaskervvilleSC', 'serif'],
+      },
+      fontWeight: {
+        'regular': '400',
+        'medium': '500',
+        'semibold': '600',
+        'bold': '700',
+      }
+    },
   },
   plugins: [],
 }
