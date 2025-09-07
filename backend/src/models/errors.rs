@@ -14,6 +14,10 @@ pub enum AppError {
     FileNotFound,
     JsonParseError,
     PhotoNotFound,
+    ImageFileNotFound,
+    InvalidImagePath,
+    PathTraversalAttempt,
+    NotAnImage,
 }
 
 impl fmt::Display for AppError {
@@ -22,6 +26,10 @@ impl fmt::Display for AppError {
             Self::FileNotFound => "File not found",
             Self::JsonParseError => "JSON parse error",
             Self::PhotoNotFound => "Photo not found",
+            Self::ImageFileNotFound => "Image file not found",
+            Self::InvalidImagePath => "Invalid image path",
+            Self::PathTraversalAttempt => "Path traversal attempt detected",
+            Self::NotAnImage => "File is not an image",
         })
     }
 }
@@ -40,6 +48,26 @@ impl ResponseError for AppError {
                 "Failed to parse JSON data",
             ),
             Self::PhotoNotFound => (StatusCode::NOT_FOUND, "PHOTO_NOT_FOUND", "No photos found"),
+            Self::ImageFileNotFound => (
+                StatusCode::NOT_FOUND,
+                "IMAGE_FILE_NOT_FOUND",
+                "The image file could not be located on disk",
+            ),
+            Self::InvalidImagePath => (
+                StatusCode::BAD_REQUEST,
+                "INVALID_IMAGE_PATH",
+                "The image path is invalid",
+            ),
+            Self::PathTraversalAttempt => (
+                StatusCode::BAD_REQUEST,
+                "INVALID_REQUEST",
+                "Path traversal attempts are not allowed",
+            ),
+            Self::NotAnImage => (
+                StatusCode::BAD_REQUEST,
+                "NOT_AN_IMAGE",
+                "The requested file is not a valid image",
+            ),
         };
 
         HttpResponse::build(status_code).json(ErrorResponse {
