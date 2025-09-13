@@ -8,6 +8,7 @@ export default {
     extend: {
       fontFamily: {
         'baskerville': ['BaskervvilleSC', 'serif'],
+        'martian': ['Martian Mono', 'monospace'],
       },
       fontWeight: {
         'regular': '400',
