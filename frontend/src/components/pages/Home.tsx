@@ -10,7 +10,7 @@ const fadeUp = {
     opacity: 1,
     y: 0,
     transition: {
-      duration: 0.6,
+      duration: 2.0,
       ease: [0.42, 0, 0.58, 1] as [number, number, number, number],
     },
   },
@@ -36,7 +36,7 @@ const CATEGORIES = [
 
 const Home = () => {
   return (
-    <div className="min-h-screen bg-white flex flex-col justify-center items-center">
+    <div className="min-h-screen bg-white flex flex-col justify-center items-center font-martian">
       <TopNav />
 
       <motion.div
@@ -46,7 +46,7 @@ const Home = () => {
         animate="visible"
       >
         <motion.h1
-          className="text-sm font-medium tracking-[3px] text-gray-800 mb-5 text-center font-['Martian_Mono']"
+          className="text-sm font-bold tracking-[3px] text-gray-800 mb-8 text-center"
           variants={fadeUp}
         >
           MOMENTS BY MOUD
