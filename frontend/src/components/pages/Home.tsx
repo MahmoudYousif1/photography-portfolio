@@ -49,7 +49,7 @@ const Home = () => {
           className="text-sm font-bold tracking-[3px] text-gray-800 mb-8 text-center"
           variants={fadeUp}
         >
-          MOMENTS BY MOUD
+          PHOTOGRAPHY PORTFOLIO
         </motion.h1>
 
         <div className="flex flex-col gap-5 max-w-4xl w-full">
