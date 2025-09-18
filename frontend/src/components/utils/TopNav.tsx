@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const TopNav = () => {
   return (
     <motion.nav
-      className="flex justify-between items-center px-10 py-5 font-martian fixed top-0 left-0 right-0 z-50"
+      className="flex justify-between items-center px-10 py-5 font-martian fixed top-0 left-0 right-0 z-50 bg-transparent"
       initial={{ opacity: 0, y: -50 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.8, delay: 1.2 }}

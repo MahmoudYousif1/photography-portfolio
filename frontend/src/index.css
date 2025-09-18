@@ -2,32 +2,34 @@
 
 /* BaskervvilleSC Font Family */
 @font-face {
-  font-family: 'BaskervvilleSC';
-  src: url('./assets/fonts/static/BaskervvilleSC-Regular.ttf') format('truetype');
+  font-family: "BaskervvilleSC";
+  src: url("./assets/fonts/static/BaskervvilleSC-Regular.ttf")
+    format("truetype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'BaskervvilleSC';
-  src: url('./assets/fonts/static/BaskervvilleSC-Medium.ttf') format('truetype');
+  font-family: "BaskervvilleSC";
+  src: url("./assets/fonts/static/BaskervvilleSC-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'BaskervvilleSC';
-  src: url('./assets/fonts/static/BaskervvilleSC-SemiBold.ttf') format('truetype');
+  font-family: "BaskervvilleSC";
+  src: url("./assets/fonts/static/BaskervvilleSC-SemiBold.ttf")
+    format("truetype");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'BaskervvilleSC';
-  src: url('./assets/fonts/static/BaskervvilleSC-Bold.ttf') format('truetype');
+  font-family: "BaskervvilleSC";
+  src: url("./assets/fonts/static/BaskervvilleSC-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -35,68 +37,68 @@
 
 /* Martian Mono Font Family */
 @font-face {
-  font-family: 'Martian Mono';
-  src: url('./assets/fonts/static/MartianMono-ExtraLight.ttf') format('truetype');
+  font-family: "Martian Mono";
+  src: url("./assets/fonts/static/MartianMono-ExtraLight.ttf")
+    format("truetype");
   font-weight: 200;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Martian Mono';
-  src: url('./assets/fonts/static/MartianMono-Light.ttf') format('truetype');
+  font-family: "Martian Mono";
+  src: url("./assets/fonts/static/MartianMono-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Martian Mono';
-  src: url('./assets/fonts/static/MartianMono-Regular.ttf') format('truetype');
+  font-family: "Martian Mono";
+  src: url("./assets/fonts/static/MartianMono-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Martian Mono';
-  src: url('./assets/fonts/static/MartianMono-Medium.ttf') format('truetype');
+  font-family: "Martian Mono";
+  src: url("./assets/fonts/static/MartianMono-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Martian Mono';
-  src: url('./assets/fonts/static/MartianMono-SemiBold.ttf') format('truetype');
+  font-family: "Martian Mono";
+  src: url("./assets/fonts/static/MartianMono-SemiBold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Martian Mono';
-  src: url('./assets/fonts/static/MartianMono-Bold.ttf') format('truetype');
+  font-family: "Martian Mono";
+  src: url("./assets/fonts/static/MartianMono-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Martian Mono';
-  src: url('./assets/fonts/static/MartianMono-ExtraBold.ttf') format('truetype');
+  font-family: "Martian Mono";
+  src: url("./assets/fonts/static/MartianMono-ExtraBold.ttf") format("truetype");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
 }
 
-
-#root{
+#root {
   padding: 0;
   margin: 0 auto;
   max-width: 100%;
   min-height: 100vh;
-  font-family: 'BaskervvilleSC, serif';
+  font-family: "BaskervvilleSC, serif";
 }
 
 /* Hide scrollbar for webkit browsers (Chrome, Safari, Edge) */
@@ -136,4 +138,44 @@ html {
 
 *::-webkit-scrollbar {
   display: none; /* Chrome, Safari, Opera */
+}
+
+.gallery-column {
+  transition: transform 0.1s ease-out;
+  will-change: transform;
+}
+
+/* Smooth scrolling behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Prevent layout shifts */
+.gallery-column img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Optional: Add a subtle fade-in effect for images */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.gallery-column img {
+  animation: fadeIn 0.5s ease-out;
+}
+
+/* Scrollbar hiding utility class */
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;  /* Safari and Chrome */
 }
