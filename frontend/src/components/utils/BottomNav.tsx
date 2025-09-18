@@ -3,6 +3,9 @@ import { Link, useLocation } from "react-router-dom";
 
 const BottomNav = () => {
   const location = useLocation();
+  const isGalleryPage =
+    location.pathname === "/gallery" ||
+    location.pathname.startsWith("/gallery/");
 
   const getLinks = () => {
     switch (location.pathname) {
@@ -34,7 +37,7 @@ const BottomNav = () => {
 
   return (
     <motion.nav
-      className="flex items-center px-10 py-5 fixed bottom-0 right-0 z-50"
+      className="flex items-center px-10 py-5 fixed bottom-0 right-0 z-50 bg-transparent"
       initial={{ opacity: 0, y: 50 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.8, delay: 1.2 }}
@@ -43,7 +46,11 @@ const BottomNav = () => {
         {LINKS.map(({ to, label }) => (
           <Link key={to} to={to}>
             <motion.div
-              className="text-sm text-gray-800 font-medium tracking-wider hover:text-gray-600 transition-colors"
+              className={`text-sm font-medium tracking-wider transition-colors ${
+                isGalleryPage
+                  ? "text-white hover:text-gray-300"
+                  : "text-gray-800 hover:text-gray-600"
+              }`}
               whileHover={{ scale: 1.05, y: -2 }}
               whileTap={{ scale: 0.95 }}
             >
